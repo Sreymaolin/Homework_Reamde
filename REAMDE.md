@@ -7,22 +7,34 @@ A Node.js-based application designed to simplify and automate school administrat
 ---
 
 ## 📚 Table of Contents
-<a href="https://getbootstrap.com" target="_blank">Features</a>
+- <a href="https://getbootstrap.com" target="_blank">Features</a>
 
-<a href="https://getbootstrap.com" target="_blank">Tech Stack</a>
+- <a href="https://getbootstrap.com" target="_blank">Tech Stack</a>
 
-<a href="https://getbootstrap.com" target="_blank">Installation</a>
+- <a href="https://getbootstrap.com" target="_blank">Installation</a>
 
-<a href="https://getbootstrap.com" target="_blank">Usage</a>
+- <a href="https://getbootstrap.com" target="_blank">Usage</a>
 
-<a href="https://getbootstrap.com" target="_blank">API Endpoints</a>
+- <a href="https://getbootstrap.com" target="_blank">API Endpoints</a>
 
-<a href="https://getbootstrap.com" target="_blank">Environment Variables</a>
+- <a href="https://getbootstrap.com" target="_blank">Environment Variables</a>
 
-<a href="https://getbootstrap.com" target="_blank">Scripts</a>
+- <a href="https://getbootstrap.com" target="_blank">Scripts</a>
 
-<a href="https://getbootstrap.com" target="_blank">Contributing</a>
+- <a href="https://getbootstrap.com" target="_blank">Contributing</a>
 
-<a href="https://getbootstrap.com" target="_blank">Contributors</a>
+- <a href="https://getbootstrap.com" target="_blank">Contributors</a>
 
-<a href="https://getbootstrap.com" target="_blank">License</a>
+- <a href="https://getbootstrap.com" target="_blank">License</a>
+
+---
+## ✨ Features
+- Student & Teacher Management
+- Class & Subject Assignment
+- Attendance Tracking
+- User Authentication(JWT)
+- Admn Dashboard
+
+---
+## 🛠 Tech Stack
+- **Programming Language:**JavaScript (Node.js)
